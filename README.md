@@ -1,4 +1,4 @@
-# air-attack
+# Air Attack
 Simple vertical shooter created using Unity
 
 Unity Asset Store assets used:
