@@ -1,5 +1,7 @@
 # Air Attack
-Simple vertical shooter created using Unity
+Simple vertical shooter created using Unity.
+
+Scripts and scene compiled in this repository, original repository on local device.
 
 Unity Asset Store assets used:
 - https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834
